@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074474662181",
+    "project_id": "smartkit-8e62c",
+    "storage_bucket": "smartkit-8e62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074474662181:android:45978058493410001682cc",
+        "android_client_info": {
+          "package_name": "com.example.smartkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074474662181-5u9lt6tes64ho4hroe7f9qpih9v6el5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7TRwmXf0VGq6X-d64rH0XAhdCZTTcQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074474662181-5u9lt6tes64ho4hroe7f9qpih9v6el5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

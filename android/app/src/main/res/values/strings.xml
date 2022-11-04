@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">SmartKitIntegration</string>
+<string name="facebook_app_id">3711729398922996</string>
+<string name="fb_login_protocol_scheme">fb3711729398922996</string>
+<string name="mapapikey">AIzaSyDo7TRwmXf0VGq6X-d64rH0XAhdCZTTcQE</string>
+<string name="admobappid">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
